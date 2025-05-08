@@ -28,7 +28,7 @@ Powered by:
 🧪 Sample Prompt
 
 ```python
-document_qa.run("My daughter has been experiencing POTS-like symptoms, and her heart rate is around 170. Should I take her to the ED, call an on-call nurse, or wait for her upcoming cardiology appointment?")
+"My daughter has been experiencing POTS-like symptoms, and her heart rate is around 170. Should I take her to the ED, call an on-call nurse, or wait for her upcoming cardiology appointment?"
 ```
 
 📦 Requirements
