@@ -1,0 +1,8 @@
+accelerate
+bitsandbytes
+safetensors
+langchain
+chromadb
+datasets
+sentence-transformers
+git+https://github.com/huggingface/transformers
